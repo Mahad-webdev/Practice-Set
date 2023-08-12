@@ -1,0 +1,31 @@
+#container{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+#container2{
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    align-self: center;
+    background-color: blueviolet;
+}
